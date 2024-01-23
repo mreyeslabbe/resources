@@ -13,9 +13,6 @@ In this page, I will post some public goods that I frequently use for my researc
 <li> https://christinecai.github.io/PublicGoods/applied_micro_methods.pdf </li>
 <li> https://www.jonathandroth.com/did-resources/ </li>
 </ul>
-</p>
-aaaaa
-<p align="justify>
 <b> Software and code </b>
 
 I mostly conduct my empirical analysis using Stata and R, so here I provide some int (...) 
