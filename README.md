@@ -15,6 +15,7 @@ In this page, I will post some public goods that I frequently use for my researc
 
 <p align="justify>
 <b> Software and code </b>
+
 I mostly conduct my empirical analysis using Stata and R, so here I provide some int
 
 </p>
